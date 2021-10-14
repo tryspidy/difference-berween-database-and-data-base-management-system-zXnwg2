@@ -1,0 +1,1 @@
+A database is any collection of data, it can be words you write on a piece of paper or a digital file. A DataBase Management System (DBMS) is a piece of software that manages databases and lets you create, edit and delete databases, their tables and their data.
